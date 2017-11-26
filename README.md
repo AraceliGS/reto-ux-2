@@ -31,36 +31,32 @@ El objetivo de este reto es identificar los elementos de navegación de los sigu
 
 ![Imagen 4](assets/images/image4.JPG)
 
-![Imagen 5](assets/images/image6.JPG)
-
-* Estas imágenes de algunos alojamientos los considero elementos de navegación, ya que te dirigen a otra ventana donde no solo te informan de ese hospedaje, sino que te permiten también ver información de casas disponibles aledañas a la seleccionadas.
-
-![Imagen 6](assets/images/image5.JPG)
+![Imagen 5](assets/images/image5.JPG)
 
 * En este caso, consideré al footer como elemento de navegación ya que muestra opciones de navegación. No se le considera elemento de navegación local porque si bien solo aparece en esa página, no permite navegar dentro de esa página. Cabe resaltar, que las opciones de navegación del footer aparecen en el elemento de navegación global de la imagen 2:
 
-![Imagen 7](assets/images/image2.JPG)
+![Imagen 6](assets/images/image2.JPG)
 
 ### **Website #2 | Github**
 
-![Imagen 8](assets/images/image7.JPG)
+![Imagen 7](assets/images/image7.JPG)
 
 * En esta imagen se muestra este encabezado que es un elemento de navegación global(aparece en todas las páginas de Github) y varios elementos de navegación inline.
 
-![Imagen 9](assets/images/image8.JPG)
+![Imagen 8](assets/images/image8.JPG)
 
 * Aparte de los elementos de navegación de tipo inline, también hay de tipo facetado(navegación facetada), ya que dan al usuario filtros predefinidos.
 
-![Imagen 10](assets/images/image9.JPG)
+![Imagen 9](assets/images/image9.JPG)
 
 * Aquí se muestra este elemento de navegación global, el cual es un footer. Este contiene varios elementos de navegación en línea.
 
 ### **Website #3 | Medium**
 
-![Imagen 11](assets/images/image10.JPG)
+![Imagen 10](assets/images/image10.JPG)
 
 * En esta imagen se muestra este encabezado que es un elemento de navegación global. También algunos elementos de navegación inline, y por ende, son links de referencia(el subrayado aparece si les pasas el mouse por encima); y elementos de navegación que me permiten acceder a la sección que indican sin necesidad de utilizar el encabezado.
 
-![Imagen 12](assets/images/image11.JPG)
+![Imagen 11](assets/images/image11.JPG)
 
-* Considero a este footer un elemento de navegación, ya que me muestra opciones de navegación. No lo considero un elmento de navegación local, porque sus opciones me dirigen aotras páginas y no dentro de esa sección
+* Considero a este footer un elemento de navegación, ya que me muestra opciones de navegación. No lo considero un elemento de navegación local, porque sus opciones me dirigen a otras páginas y no dentro de esa sección.
