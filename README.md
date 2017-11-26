@@ -54,3 +54,13 @@ El objetivo de este reto es identificar los elementos de navegación de los sigu
 ![Imagen 10](assets/images/image9.JPG)
 
 * Aquí se muestra este elemento de navegación global, el cual es un footer. Este contiene varios elementos de navegación en línea.
+
+### **Website #3 | Medium**
+
+![Imagen 11](assets/images/image10.JPG)
+
+* En esta imagen se muestra este encabezado que es un elemento de navegación global. También algunos elementos de navegación inline, y por ende, son links de referencia(el subrayado aparece si les pasas el mouse por encima); y elementos de navegación que me permiten acceder a la sección que indican sin necesidad de utilizar el encabezado.
+
+![Imagen 12](assets/images/image11.JPG)
+
+* Considero a este footer un elemento de navegación, ya que me muestra opciones de navegación. No lo considero un elmento de navegación local, porque sus opciones me dirigen aotras páginas y no dentro de esa sección
